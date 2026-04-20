@@ -1,0 +1,19 @@
+{
+  "ui": {
+    "footer": {
+      "hideSandboxStatus": false,
+      "hideCWD": false,
+      "hideModelInfo": false,
+      "hideContextPercentage": false
+    },
+    "hideContextSummary": false,
+    "hideBanner": false,
+    "hideFooter": false,
+    "showMemoryUsage": true,
+    "showModelInfoInChat": true,
+    "showCitations": true
+  },
+  "chatCompression": {
+    "contextPercentageThreshold": 0.7
+  }
+}
