@@ -4,7 +4,7 @@
 # Uso: ./run-analysis.sh
 
 # Token definitivo persistido no banco PostgreSQL
-TOKEN="squ_1e90b52e6bda793a1fd6a4217c53fc01586d655f"
+TOKEN="squ_a059ff1c7a9f806a516ce156c1d8a5bc69c6fbc3"
 PROJECT_DIR="escala-crescer-aprender-api"
 
 echo "🚀 Iniciando análise estática do projeto Escala API..."
